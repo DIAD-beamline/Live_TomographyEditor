@@ -1,4 +1,4 @@
-# Tomography_Viewer
+# Live Tomography Editor
 Graphical jupyter notebook for live manual tomography data inspection and reconstruction pipeline definition.
 
 # Usage
