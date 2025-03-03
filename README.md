@@ -21,6 +21,6 @@ Graphical jupyter notebook for live manual tomography data inspection and recons
    jupyter notebook
    ```
 
-This will open Jupyter Lab in your default web browser. Navigate to the notebook file to begin working with the tomography viewer.
+This will open Jupyter Lab in your default web browser. Navigate to the notebook file to begin working with the tomography editor.
 
 
